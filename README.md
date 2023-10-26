@@ -8,7 +8,7 @@
 
 2. **Password Policy**: For users who choose to log in using a password, ensure that it is a strong, unique password to enhance security. We recommend to use SSH keys (RSA) for authentication.
 
-3. **Server Reservation**: Enter expected time of use, server number, and number of GPUs in the google calendar. Contact Dr. Miyoshi for calendar access.
+3. **Server Reservation**: Enter expected time of use, server number, number of GPUs, and user name in the google calendar. Contact Dr. Miyoshi for calendar access.
 
 ## GPU Server Usage
 
